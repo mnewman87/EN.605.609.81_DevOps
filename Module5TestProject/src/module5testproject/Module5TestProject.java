@@ -18,7 +18,7 @@ public class Module5TestProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JOptionPane.showMessageDialog(new NewJFrame(), "Hello World_Update");
+        JOptionPane.showMessageDialog(new NewJFrame(), "Hello World_Update2");
 
     }
     
